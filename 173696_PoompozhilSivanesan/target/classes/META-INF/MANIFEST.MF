@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 173696_PoompozhilSivanesan
+Implementation-Version: 1
+Built-By: psivanes
+Implementation-Vendor-Id: com.cg.poompozhil
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/173696_PoompozhilSivanesan
+Created-By: Maven Integration for Eclipse
+
